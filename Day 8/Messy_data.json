@@ -1,0 +1,31 @@
+[
+ {
+    "id": 1,
+    "user": "Alice",
+    "metadata": {
+      "login_info": {
+        "last_ip": "192.168.1.1",
+        "device": "Mobile"
+      },
+      "tags": ["premium", "beta_tester", "internal"]
+    },
+    "history": [2021, 2022, 2023, 2024]
+  },
+  {
+    "id": 2,
+    "user": "Bob",
+    "metadata": {
+      "login_info": {
+        "device": "Desktop"
+      },
+      "tags": ["standard"]
+    },
+    "history": [2023]
+  },
+  {
+    "id": 3,
+    "user": "Charlie",
+    "metadata": null,
+    "history": []
+  }
+]

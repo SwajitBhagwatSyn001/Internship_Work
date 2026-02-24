@@ -1,0 +1,21 @@
+{
+    "0_id": 1,
+    "0_user": "Alice",
+    "0_metadata_login_info_last_ip": "192.168.1.1",
+    "0_metadata_login_info_device": "Mobile",
+    "0_metadata_tags_0": "premium",
+    "0_metadata_tags_1": "beta_tester",
+    "0_metadata_tags_2": "internal",
+    "0_history_0": 2021,
+    "0_history_1": 2022,
+    "0_history_2": 2023,
+    "0_history_3": 2024,
+    "1_id": 2,
+    "1_user": "Bob",
+    "1_metadata_login_info_device": "Desktop",
+    "1_metadata_tags_0": "standard",
+    "1_history_0": 2023,
+    "2_id": 3,
+    "2_user": "Charlie",
+    "2_metadata": null
+}
